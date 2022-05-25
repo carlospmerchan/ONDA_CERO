@@ -8,8 +8,10 @@ export default {
 }
 </script>
 
-<style lang="postcss">
-.banner-image{
-    @apply w-full;
-}
+<style lang="sass">
+
+.banner-image
+    @apply w-full
+    border: 2px solid $color
+
 </style>
