@@ -1,13 +1,11 @@
 <template>
   <v-bottom-navigation v-model="value">
-    <v-btn value="recent">
-      <span>Recent</span>
-
-      <v-icon>mdi-history</v-icon>
+    <v-btn value="inicio">
+      <span>Inicio</span>
     </v-btn>
 
     <v-btn value="favorites">
-      <span>Favorites</span>
+      <span>Horario</span>
 
       <v-icon>mdi-heart</v-icon>
     </v-btn>

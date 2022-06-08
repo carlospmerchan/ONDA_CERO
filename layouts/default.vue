@@ -1,7 +1,7 @@
 <template>
     <div>
-        <main-menu />
+        <phone-menu />
         <Nuxt />
-        <footer></footer>
+        <footer>pie</footer>
     </div>
 </template>
