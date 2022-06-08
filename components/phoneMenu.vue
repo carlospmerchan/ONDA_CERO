@@ -50,7 +50,9 @@ nav{
     position: fixed;
     bottom: 0;
     backdrop-filter: blur(10px);
+    background-color: white;
     width: 100%;
+    z-index: 999;
     
 
     justify-content: center;

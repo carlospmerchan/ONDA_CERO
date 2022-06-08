@@ -1,6 +1,9 @@
 <template>
     <div>
         <header-phone />
+        <card-directo />
+        <carrusel />
+        <carrusel />
         <audio-player />
     </div>
 </template>
